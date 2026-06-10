@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "iPhone 15 Pro",
+      "description": "Điện thoại Apple iPhone 15 Pro, hiệu năng mạnh mẽ.",
+      "price": 25990000,
+      "discountPrice": 23990000,
+      "category": "Electronics",
+      "images": [
+        "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=600"
+      ],
+      "stock": 20,
+      "rating": 4.8,
+      "soldCount": 120,
+      "brand": "Apple"
+    },
+    {
+      "id": "p2",
+      "name": "Samsung Galaxy S24",
+      "description": "Điện thoại Samsung Galaxy S24 màn hình đẹp, pin tốt.",
+      "price": 21990000,
+      "discountPrice": 19990000,
+      "category": "Electronics",
+      "images": [
+        "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=600"
+      ],
+      "stock": 30,
+      "rating": 4.7,
+      "soldCount": 98,
+      "brand": "Samsung"
+    },
+    {
+      "id": "p3",
+      "name": "Áo thun nam basic",
+      "description": "Áo thun cotton form rộng, dễ phối đồ.",
+      "price": 199000,
+      "discountPrice": 149000,
+      "category": "Fashion",
+      "images": [
+        "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600"
+      ],
+      "stock": 100,
+      "rating": 4.5,
+      "soldCount": 300,
+      "brand": "Local Brand"
+    },
+    {
+      "id": "p4",
+      "name": "Giày sneaker trắng",
+      "description": "Giày sneaker thời trang, phù hợp đi học và đi chơi.",
+      "price": 799000,
+      "discountPrice": 699000,
+      "category": "Fashion",
+      "images": [
+        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600"
+      ],
+      "stock": 50,
+      "rating": 4.6,
+      "soldCount": 210,
+      "brand": "Sneaker"
+    },
+    {
+      "id": "p5",
+      "name": "Ghế làm việc Ergonomic",
+      "description": "Ghế văn phòng công thái học, hỗ trợ lưng tốt.",
+      "price": 2990000,
+      "discountPrice": 2590000,
+      "category": "Home",
+      "images": [
+        "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=600"
+      ],
+      "stock": 15,
+      "rating": 4.9,
+      "soldCount": 60,
+      "brand": "HomePro"
+    },
+    {
+      "id": "p6",
+      "name": "Đèn ngủ để bàn",
+      "description": "Đèn ngủ ánh sáng ấm, thiết kế tối giản.",
+      "price": 299000,
+      "discountPrice": 249000,
+      "category": "Home",
+      "images": [
+        "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600"
+      ],
+      "stock": 45,
+      "rating": 4.4,
+      "soldCount": 150,
+      "brand": "Decor"
+    }
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "email": "test@gmail.com",
+      "password": "123456",
+      "name": "Test User",
+      "points": 100,
+      "phone": "0123456789",
+      "address": "Hồ Chí Minh",
+      "avatarUrl": ""
+    }
+  ],
+  "cart": [],
+  "orders": []
+}
